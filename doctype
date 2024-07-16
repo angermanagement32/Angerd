@@ -2,34 +2,28 @@
 <!doctype html>
 <html dir="ltr" lang="en"
     chrome-refresh-2023>
-<!doctype html>
+<!doctype html>aerger
 <html dir="ltr" lew_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet
-
+    <link rel="stylesheet" ghref="chrome://resources/css/ttryext_defaults_md.css">
+    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chromavg
       #backgroundImage {
-        border: none;
+        border: none;tyryrty
         height: 100%;
         pointer-events: none;
-        position: fixed;
+        position: fixed;tryrt
         top: 0;
         visibility: hidden;
         width: 100%;
       }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
+trytr
+      [show-yvisibility: visible;
       }
-    </style>
-  </head>
-  <body>
+   tyr </stylt
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
-    <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <script typytylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
+    <link rel="sttyrtyrylesheet" href="shared_vars.css">
   </body>
 </html>
 
