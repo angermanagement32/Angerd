@@ -5,21 +5,15 @@
 <!doctype html>aerger
 <html dir="ltr" lew_tab_page.js"></script>
     <link rel="stylesheet" ghref="chrome://resources/c
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        width: 100%;
-      }
+    <meta charset="utf-8">hjk
 
       [show-background-image] #backgroundImage {
-        visibility: visible;
+        visibility: visible;ghjghj
       }
     </style>
   </head>
   <body>
-    <iframe id="backgroundImage" src=""></iframe>
+    <iframe id="backgroundImage" srcghjghjh=""></iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
