@@ -5,18 +5,6 @@
 <!doctype html>aerger
 <html dir="ltr" lew_tab_page.js"></script>ed_vars.css">
   </body>
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
     <ntp-app></ntp-app>
