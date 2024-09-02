@@ -1,18 +1,6 @@
 theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
     <script type="module" src="new_tab_page.js"></script
-      #backgroundImage {
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;//resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-        margin: 0;
-      }
-
-      #backgroundImage {
         border: none;
         height: 100%;
         pointer-events: none;
