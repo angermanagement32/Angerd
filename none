@@ -2,32 +2,6 @@ theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
     <script type="module" src="new_tab_page.js"></script
         border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-heme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
-</html>
-
-<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
         pointer-events: none;
         position: fixed;
         top: 0;
