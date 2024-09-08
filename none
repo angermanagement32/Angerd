@@ -1,14 +1,6 @@
 theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-    <script type="module" src="new_tab_page.js"></script
-        border: none;
-        pointer-events: none;
-        position: fixed;
-        top: 0;
-        visibility: hidden;
-        width: 100%;
-      }
-
+    <script type="module" src="new_tab_page.js
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
