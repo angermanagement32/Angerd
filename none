@@ -1,17 +1,6 @@
 theme/colors.css?sets=ui,chrome">
     <link rel="stylesheet" href="shared_vars.css">
-    <script type="module" src="new_tab_page.js
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
+    <script type="module" src="new_tab_page.js/iframe>
     <ntp-app></ntp-app>
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
