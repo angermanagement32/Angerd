@@ -1,22 +1,4 @@
 f="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>defaults_md.css">
-        background: #FFFFFF;iframe>
-    <ntp-app></ntp-app>
-</html>
-
-<html dir="ltr" lang="en"<!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-    <style>
-      body {
-        background: #FFFFFF;
-        margin: 0;
-      }
-
-      #backgroundImage {
         border: none;
         height: 100%;
         pointer-events: none;
