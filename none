@@ -1,17 +1,4 @@
 
-
-    chrome-refresh-2023>
-  <head>
-    <meta charset="utf-8">
-    <title>New Tab</title>
-        visibility: hidden;
-        width: 100%;
-      }
-
-      [show-background-image] #backgroundImage {
-        visibility: visible;
-      }
-    </style>
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
