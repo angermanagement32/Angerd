@@ -2,17 +2,6 @@
     <title>New Tab</title>
     <style>
       body {
-<!doctype html>
-<html dir="ltr" lang="en"
-    chrome-refresh-2023>
-        margin: 0;
-      }
-
-      #backgroundImage {
-        border: none;
-        height: 100%;
-        pointer-events: none;
-        position: fixed;
         top: 0;
         visibility: hidden;
 <!doctype html>
